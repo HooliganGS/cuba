@@ -1,1 +1,1 @@
-# cuba
+https://hooligangs.github.io/cuba/
